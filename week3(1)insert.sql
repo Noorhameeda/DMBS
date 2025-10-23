@@ -9,3 +9,6 @@ insert into tb2 values(501,15000);
 insert into tb2 values(502,5000);
 insert into tb2 values(503,10000);
 insert into tb2 values(504,25000);
+---display
+select * from tb1;
+select * from tb2;
