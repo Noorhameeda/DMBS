@@ -1,0 +1,6 @@
+insert into students values('24B11CS234','Bala');
+insert into students values('24B11CS381','Kiran');
+----check the data after inserting
+ select * from students; 
+--Retrieve all details of the student with roll number
+select * from students where rollno='24B11CS234'
